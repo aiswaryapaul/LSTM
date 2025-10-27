@@ -34,12 +34,7 @@ Embedding (total_words=VocabSize, output_dim=100)
 LSTM (units=150)
 Dense (activation='softmax')
 
-🚀 How to Run
-# Clone repo
-git clone https://github.com/<your-username>/lstm-text-generation.git
 
-# Open and run notebook
-python lstm_text_generation.py
 
 🔮 Future Improvements
 
